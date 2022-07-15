@@ -15,12 +15,9 @@ class StockRankViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        // dataSource, delegate는 protocol
-        // 이런 걸 알려주는 건 self, 즉 StockRankViewController가 알려줄거야
-        collectionView.dataSource = self // data, presentation
-        collectionView.delegate = self // layout, sell-size
        
+        collectionView.dataSource = self 
+        collectionView.delegate = self
     }
 }
 
