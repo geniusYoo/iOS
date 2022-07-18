@@ -1,6 +1,6 @@
 # iOS
 
-iOS 실습 프로젝트들 :)
+-------------
 
 1. Basic
   - Hello iOS
@@ -13,5 +13,7 @@ iOS 실습 프로젝트들 :)
   - Stock Rank (Single Column List)
   - Chat List (Single Column List)
   - Apple Framework List (Grid)
+
+--------------
 
 Keep Going :-) 
