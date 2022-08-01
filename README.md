@@ -22,6 +22,10 @@
   - Apple Framework List (Modality를 이용해 상세 뷰 만들고 버튼에 Safari 연결)
   - Head Space Focus (Navigation Bar를 이용해 깊이 알려주고 더블 섹션)
 
+------
+**6. Combine**
+  - Apple Framework List (Combine을 이용해서 핵심 로직 한군데로 모으기)
+  
 <br> <br>
 --------------
 
